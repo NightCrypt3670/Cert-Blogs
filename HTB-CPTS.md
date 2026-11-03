@@ -41,7 +41,8 @@ A personal experience, preparation guide, and lessons learned.
         I was used to do the reporting based on how our company do it but in HTB, it's a little different especially in the walkthrough part. This, I think is an additional Section which are not always present in any professional reports because there's the "Details" part of each Findings where a tester should put the PoC. I also wish I knew that the walkthrough requires every details of the steps I've done. Some also mentioned that it's normal to reach 100 to 200+ pages in the report and here I thought, I should've redacted or cut every unnecessary details. It is the part that I should've provided a lot more details and supporting screenshots and evidences. I'm still not sure if it's alright to show sensitive information such as usernames and passwords but I redacted them just to be safe. 
     
 3. The Exam
-    The exam is brutal and fun at the same time. It puts me in a roller coaster of emotions. Without further shitty introduction, the following describes everything I've experienced.
+
+   The exam is brutal and fun at the same time. It puts me in a roller coaster of emotions. Without further shitty introduction, the following describes everything I've experienced.
    
     - **Going In: Expectations vs. Reality**
 
@@ -108,7 +109,7 @@ A personal experience, preparation guide, and lessons learned.
           ![Documentation hell.](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh5eW10aXd3MWp4ZTE3a3l0eDlwYnZrazJ4bzlvbm0yeDg2bjl4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orifaQEOagjYJ1EXe/200.webp)
 
     
-4. The Aftermath: Waiting, Wondering, and Losing My Sanity.
+5. The Aftermath: Waiting, Wondering, and Losing My Sanity.
     
     - **The Waiting Game**
 
@@ -121,7 +122,7 @@ A personal experience, preparation guide, and lessons learned.
     ![Cheers!](https://github.com/user-attachments/assets/ad0a47d3-188f-4c92-880c-160d2d35c2e5) _12 flags. 10 days. One report. One very tired pentester._
 
     
-5. Lessons Learned
+6. Lessons Learned
     
     - **What Worked**
 
@@ -146,11 +147,11 @@ A personal experience, preparation guide, and lessons learned.
 
         - Take your time. Don't race with everyone else. Focus on your own timeline. It's one of the mistakes that I made. I compared my current level to other people's level 100. As mentioned in my background, I don't have any technical experience prior to this job. My colleagues are different. They have more experience and are skilled than I am. They can solve boxes in 2 hours that took me 4 to 8 hours to solve. They recognize patterns better than I do. They have better OpSec because some of them have red teaming experience. While yes, there might be a skill gap between you and other people and it's hard not to ignore it, it should fuel your burning passion and drive to reach their level but not to the point that you're burning yourself out. You won't reach their level overnight. But it's important to see your improvement compared to your day one. Yes it's cringy but it's real.
     
-6. What's Next?
+7. What's Next?
 
    I honestly don't know. I'm still figuring it out. But I guess, I'll get more real-world experience by delivering projects and shadow other consultants who possess expertise in other specializations like cloud and mobile. Since AI has been a buzz term for a while now, I guess I'll be doing the HTB COAE path. I'm really bad at Math and there are some computations in the COAE path, so I think it'll be funny to mock my previous Math teachers by passing this Certification. It'll be funny as someone without calculus background just casually passing an AI hacking certification but I guess it'll be challenging. and I'm up for that challenge. I'll do it for the plot lol.
    
-7. Final Thoughts
+8. Final Thoughts
 	
 	I honestly don't know what to say anymore. I guess if you're planning to take the CPTS, then go for it. Sometimes, you don't need to feel ready to take the exam, you'll have to experience it to know whether or not your skills are enough. Failing is scary but it's what makes it fun and leaves you with more lessons. I don't feel ready when I took it but I passed it on the first try. I'm still afraid to fail but in life, there's no real failed attempts. It's either you win or you earn lessons. IDK who said that I just said whatever comes to my mind. I sound like a martial arts master NGL hahaha. Anyway, good luck future candidates and I hope you get something from my nonsense.
 ![Bocchi Celebrating](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng1c2hpN3ZmYzFtbnFjajNpMzRrbzV1MG92dW5oczk0emQ1bnpraiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwWaY9rHspjc9lKzYI/giphy.webp)
